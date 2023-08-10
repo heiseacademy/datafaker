@@ -1,0 +1,8 @@
+en:
+  faker:
+    marvel:
+      hero:
+        - Thor
+        - Iron Man
+        - Ant Man
+
